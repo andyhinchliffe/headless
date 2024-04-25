@@ -72,7 +72,7 @@ export default async function PostList() {
   
 </div>
 <div className="h-screen flex items-center justify-center">
-<h1 className="-mt-14 text-center font-medium text-4xl">Wireframe Headless Server</h1>
+<h1 className="-mt-14 text-center font-medium text-4xl">Wireframe Headless Server Template</h1>
 </div>  
         
         
